@@ -37,7 +37,7 @@ The repository is maintained as [CSV files](https://github.com/mdcollab/covidcli
   - Data Science Team: [Nosheen Moosvi](https://www.linkedin.com/in/nosheen-moosvi-82a31883/), [Rebekkah Ismakov](https://www.linkedin.com/in/rismakov/), [Pardis Noorzad](https://djpardis.com)
   - Clinical Team: [Greg Burrell](https://www.linkedin.com/in/gregburrell/),  [Haritha Atluri](https://www.linkedin.com/in/harithaatluri/), [Roger Wu](https://www.linkedin.com/in/roger-wu-md-mba-facep-b91844a/), [Caesar Djavaherian](https://www.linkedin.com/in/caesar-djavaherian/), [Sujal Mandavia](https://www.linkedin.com/in/sujal-mandavia-03664414/)
     
-| <img src="contributors/logos/braid_health.png" width="50%"> | <img src="contributors/samples/carbon_health_dictionary.png" width="60%"> |
+| <img src="contributors/logos/carbon_health.png" width="40%"> | <img src="contributors/samples/carbon_health_dictionary.png" width="60%"> |
 |:--:| :--: |
 | Carbon Health Logo | <a href="https://docs.google.com/spreadsheets/d/1p9rtv2LjVCPb54MdGe8ZqJ1zF3McIFnzq-ZhhjWgguI/edit?usp=sharing" target="_blank">Data Dictionary</a> |
 
